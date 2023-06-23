@@ -1,0 +1,70 @@
+/* Style by using Tagname */
+body {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+    to right bottom,
+    #3897c6,
+    #00b0cd,
+    #00c5b0,
+    #17d376,
+    #a1d924
+  );
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div {
+  display: inline-block;
+}
+span {
+  font-family: cursive;
+  font-size: 27px;
+}
+
+/* Style by using Class name */
+.heading {
+  font-family: monospace;
+  font-size: 50px;
+}
+.container {
+  height: 200px;
+  width: 200px;
+  background-image: linear-gradient(
+    to right bottom,
+    #38c6bd,
+    #00b2da,
+    #0098fa,
+    #0072ff,
+    #7f24d9
+  );
+  border: 2px groove black;
+  border-radius: 50%;
+  padding: 30px;
+  margin: 70px 50px;
+}
+.clock {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.container1 {
+  height: 200px;
+  width: 200px;
+  background-image: linear-gradient(
+    to right bottom,
+    #38c6bd,
+    #00b2da,
+    #0098fa,
+    #0072ff,
+    #7f24d9
+  );
+  border: 2px groove black;
+  border-radius: 50%;
+  padding: 30px;
+  margin: 70px 50px;
+}
+.date {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
